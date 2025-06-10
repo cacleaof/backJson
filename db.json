@@ -140,9 +140,9 @@
       "adm": 1,
       "pai": 0
     }
-  ],
+  ],    
   "registros": [
-    {
+{
       "id": "1",
       "nome": "Plano de Saude",
       "descricao": "Qualicoorp - Plano de Saúde",
@@ -156,6 +156,24 @@
       "nome": "Condominio",
       "descricao": "Saint Albert",
       "valor": 2100,
+      "CD": "D",
+      "tipo": "",
+      "venc": null
+    },
+    {
+      "id": "3",
+      "nome": "IPTU",
+      "descricao": "Qualicoorp - Plano de Saúde",
+      "valor": 3400,
+      "CD": "D",
+      "tipo": "m",
+      "venc": "10-07-2025"
+    },
+    {
+      "id": "2",
+      "nome": "IPVA",
+      "descricao": "Saint Albert",
+      "valor": 5000,
       "CD": "D",
       "tipo": "",
       "venc": null
